@@ -1,0 +1,9 @@
+{
+    "name": "battery", 
+    "license": "MIT", 
+    "author": "Leo McArdle", 
+    "version": "0.1", 
+    "fullName": "Battery Monitor", 
+    "id": "jid1-c5Xf4YoZbIlOJQ", 
+    "description": "Battery Monitor add-on for Firefox"
+}
